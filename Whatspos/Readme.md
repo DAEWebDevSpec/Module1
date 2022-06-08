@@ -29,3 +29,9 @@ tomorrow someone could make a discovery that changes everything we know about ho
 So based on that idea alone it's not only against my worldview to say anything is Impossible,
 
 but it's also almost always going to be proven wrong shortly thereafter.
+
+This file can be found here /Users/student/BowdenPro/WhatsPos 
+
+The previous directory is here /Users/student/BowdenPro 
+
+The next directory can be found here /Users/student/BowdenPro/WhereIGo
