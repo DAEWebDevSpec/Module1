@@ -10,7 +10,7 @@ Predicting the future of technology or the future in general has always been a h
 
 AI:computer:, Cybernetics, Satelites that can view further than any before:satellite:, Microchips the size of pin tips,
 
-neurolink brain inserts with the potential to cure blindness are just a few of the amazing advances some of the leaders
+neurolink [brain inserts with the potential to cure blindness](https://www.knowyourmobile.com/news/can-neuralink-cure-blindness-heres-what-we-know/) are just a few of the amazing advances some of the leaders
 
 of industry are breaching. Tomorrow that could include Lightspeed travel:rocket: and lightsabers for all we know. 
 
@@ -30,8 +30,8 @@ So based on that idea alone it's not only against my worldview to say anything i
 
 but it's also almost always going to be proven wrong shortly thereafter.
 
-This file can be found here /Users/student/BowdenPro/WhatsPos 
+<ins>This file can be found here /Users/student/BowdenPro/WhatsPos</ins>
 
-The previous directory is here /Users/student/BowdenPro 
+<ins>The previous directory is here /Users/student/BowdenPro</ins> 
 
-The next directory can be found here /Users/student/BowdenPro/WhereIGo
+<ins>The next directory can be found here /Users/student/BowdenPro/WhereIGo</ins>
