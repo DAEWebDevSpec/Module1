@@ -1,4 +1,4 @@
-####What's important
+#### What's important
 
 What's important to each individual can often 
 overlap. Family, Health, and Money,are some of the 
@@ -11,4 +11,10 @@ include these but I'd add a few more concepts.
 3. Adaptability
 4. Versatility
 
+
+<ins>This file can be found here /Users/student/BowdenPro/whatsimp</ins>
+
+<ins>The previous directory is here /Users/student/BowdenPro</ins>
+
+<ins>The next directory can be found here /Users/student/BowdenPro/Whatspos</ins>
 
