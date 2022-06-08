@@ -1,5 +1,10 @@
 
 ## Where I'm Going
+This directory can be found here
+/Users/student/BowdenPro/WhereIGo
+The previous directory is here
+/Users/student/BowdenPro
+The next directory can be found here
 
 
 ![Nas](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl0r4d8NkTUKNElDWus4bJ6kztEj6B3Ee3sw&usqp=CAU)
