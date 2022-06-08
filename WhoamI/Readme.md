@@ -13,19 +13,20 @@ people. To this day I feel like my identity is still
 
 being formed.
 
-* a cook
-* an athlete
+* a cook:fork_and_knife:
+* an athlete:football:
 * a student:mortar_board:
 * a college dropout:bear:
-* a soldier
-* a sales rep
-* a forklift driver
-* a follower
+* a soldier:raising_hand:
+* a sales rep:office:
+* a forklift driver:construction_worker:
+* a musician:notes:
 * a leader
 * a podcaster:movie_camera:
 * a painter
 * an actor
-* a teacher
+* a gamer:video_game:
+* a teacher:pencil:
 * a programmer:computer:
 
 and last but not least!!
