@@ -14,7 +14,7 @@ neurolink brain inserts with the potential to cure blindness are just a few of t
 
 of industry are breaching. Tomorrow that could include Lightspeed travel:rocket: and lightsabers for all we know. 
 
-Coming from oil lanterns and horse and buggy less than 150 years ago we might literally be teleporting this time next week.
+Coming from oil lanterns and horse and buggy:carousel_horse: less than 150 years ago we might literally be teleporting this time next week.
 
 Thomas Edison famous for the invention of the lightbulb after reportedly 10,000 attempts at it failed, Was quoted saying 
 
