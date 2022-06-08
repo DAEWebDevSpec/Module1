@@ -15,18 +15,22 @@ being formed.
 
 * a cook
 * an athlete
-* a student
-* a college dropout
+* a student:mortar_board:
+* a college dropout:bear:
 * a soldier
 * a sales rep
 * a forklift driver
 * a follower
 * a leader
-* a podcaster
+* a podcaster:movie_camera:
 * a painter
 * an actor
 * a teacher
-* a programmer
+* a programmer:computer:
+
+and last but not least!!
+
+![Timelord](https://pbs.twimg.com/media/DuPnM1dXgAQJf8X.jpg =200x300)
 
 So who I am is deeper than my current title or
 
