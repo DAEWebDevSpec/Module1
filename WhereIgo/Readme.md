@@ -17,8 +17,8 @@ point. Growing up in New Haven wasn't always the easiest. Coming from a single m
 
 home didn't make it any easier, what it did was plant a seed.
 
-This file can be found here /Users/student/BowdenPro/WhereIGo 
+<ins>This file can be found here /Users/student/BowdenPro/WhereIGo</ins>
 
-The previous directory is here /Users/student/BowdenPro 
+<ins>The previous directory is here /Users/student/BowdenPro</ins>
 
-The next directory can be found here /Users/student/BowdenPro/WhoamI
+<ins>The next directory can be found here /Users/student/BowdenPro/WhoamI</ins>
