@@ -15,9 +15,8 @@ literally is no way to determine a direction without finding one's start
 
 point. Growing up in New Haven wasn't always the easiest. Coming from a single mother
 
-home didn't make it any easier, what it did was plant a seed. I was fortunate enough to live on the town line so I was able to go to school in the next 
+home didn't make it any easier, what it did was plant a seed. As I grew that seed grew into a desire to build and give back to my community.
 
-town over
 
 <ins>This file can be found here /Users/student/BowdenPro/WhereIGo</ins>
 
