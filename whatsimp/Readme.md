@@ -15,6 +15,12 @@ Or in otherwords... the Mamba Mentality!!
 
 ![Manba Mentality](https://i.pinimg.com/originals/64/72/73/647273ee975be3d24b40d308a286e542.png)
 
+And of course it's important to remind you
+
+![Celtics in 6](https://fadeawayworld.net/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTg5ODgyMDYyOTYwODYyMzAx/attachment-untitled-design-2022-03-25t103128201.jpg)
+
+##Celtics in 6!!!!
+
 <ins>This file can be found here /Users/student/BowdenPro/whatsimp</ins>
 
 <ins>The previous directory is here /Users/student/BowdenPro</ins>
