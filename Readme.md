@@ -8,4 +8,4 @@ it includes five folders answering questions from;
 #### What's possible
 
 The purpose of this directory is to show I can navigate and create directories/folders through the terminal.
-It is also important that I can create, edit and delete files using the terminal. I will include various files to answer these questions to a fuller extent. 
+It is also important that I can create, edit and delete files using the terminal. I will include various files to answer these questions to a fuller extent....... 
